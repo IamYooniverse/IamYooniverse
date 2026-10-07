@@ -1,16 +1,15 @@
-## Hi there 👋
+# If you were to ask me who I am, hmm... 🤔
+I think I would answer that I am a wizard. 🧙 Probably.
 
-<!--
-**IamYooniverse/IamYooniverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Educational Background:
+- Hogwarts Graduate 🪄
+- Currently Student 🧑‍🎓
+- No more.. 🔎
 
-Here are some ideas to get you started:
+## My Work 🏢
+- 🛠️ [Weet](https://github.com/IamYooniverse/Weet)
+- 🛠️ [Divercity](https://divercity-mobile-preview.vercel.app)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Side note:
+- You can reach our school by crossing Mount Everest, traversing a dragon-infested volcanic zone of lava, passing through the Sahara Desert, and crossing the Pacific Ocean.
+- ## It is the most important thing! ❗❗❗
