@@ -8,7 +8,7 @@
 - No more.. 🔎
 
 ## My Work 🏢
-- 🛠️ [Weet](https://github.com/IamYooniverse/Weet)
+- 🛠️ [Weet: Connect the Mind](https://github.com/IamYooniverse/Weet)
 - 🛠️ [Divercity](https://divercity-mobile-preview.vercel.app)
 
 ## Side note:
