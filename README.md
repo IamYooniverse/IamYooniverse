@@ -15,4 +15,4 @@
 - ## It is the most important thing! ❗❗❗
 - You can reach our school by crossing Mount Everest, traversing a dragon-infested volcanic zone of lava, passing through the Sahara Desert, and crossing the Pacific Ocean.
 - I am raising Gonuk, a wizard puppy. 🐶
-- He possesses magical skills superior even to Dumbledore's—and to my own. (Naturally, he disposes of Voldemort with the flick of a finger.)
+- She possesses magical skills superior even to Dumbledore's—and to my own. (Naturally, he disposes of Voldemort with the flick of a finger.)
